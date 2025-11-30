@@ -7,6 +7,3 @@ The water system implementation is based on the publicly available tutorial:
 and has been independently modified, extended, and shader-adjusted for this project.
 
 All artwork, Spine animations, and visual assets were created by the author unless otherwise credited.
-
-Third-party paid assets are excluded from this repository due to license restrictions.# gameoff2d
-
